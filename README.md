@@ -25,6 +25,6 @@ Esta é uma pagina web que ilustra um ambiente vetérinario, podendo mostrar em 
   
   <img src="https://github.com/Aderito-ad/Petlife_WEb/assets/120769044/5aa998d6-deff-43fd-b11f-c5d0bad9b3ab" width="400px" heith="500px">
 
-  Aqui temos a nossa farmacia , com um atendimento de alto nivel e competencia nosso prifissionais podem prescrever ou indicar a medicação ideal
+  Aqui temos a nossa farmacia , com um atendimento de alto nivel e competencia nossos prifissionais podem prescrever ou indicar a medicação ideal
   para o seu pet.
 </div>
